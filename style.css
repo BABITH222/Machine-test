@@ -44,11 +44,6 @@ section {
     margin-bottom: 5px;
 }
 
-/* img {
-    width: fit-content;
-    height: 100%;
-} */
-
 .main-heading-one h2 {
     width: 403px;
     position: relative;
@@ -143,9 +138,7 @@ p {
     height: 56px;
 }
 
-/* .cr-content {
-    margin: 25px 10px;
-} */
+
 
 .cr-content-one {
     width: 40%;
@@ -171,7 +164,6 @@ p {
     padding: 30px 32px;
     position: relative;
     margin-left: 10px;
-    /* margin-top: 25px; */
 }
 
 .cr-content-main {
@@ -250,7 +242,6 @@ p {
     background: url(image/Group\ 6\ \(1\).png);
     bottom: -6%;
     right: 3.5%;
-    /* transform: rotate(96.67deg); */
     position: absolute;
     background-repeat: no-repeat;
     background-size: contain;
@@ -622,7 +613,7 @@ p {
     }
 
     .main-button p {
-        /* padding-left: 12px; */
+
         font-size: 13px;  
         margin-left: 12px !important;
 
